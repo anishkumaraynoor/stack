@@ -1,0 +1,48 @@
+
+
+
+
+
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Play:wght@700&display=swap');
+
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.but{
+    border: 1px solid red;
+    border-radius: 5px;
+}
+
+.cards{
+    background-color: red;
+    color: blue;
+}
+
+p{
+    font-size: small;
+}
+
+.my-modal .modal-content {
+    background-color: grey;
+    box-shadow: 25px;
+  }
+
+  .anton{
+    font-family: 'Play', sans-serif;
+  }
+
+  .videos{
+    display: flex;
+    align-items: center;
+    height: 300px;
+  }
+  
